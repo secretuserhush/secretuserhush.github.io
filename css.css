@@ -134,7 +134,7 @@ header .phone, header .computer {
 
     nav a {
      font-size:calc(36px + .8vw);
-     display: flex;
+     float:center;
      margin-top:-30px;
 
    }
@@ -160,7 +160,7 @@ header .phone, header .computer {
      font-size:calc(36px + .8vw);
 
      float:center;
-     max-width:30%;
+
      margin-top:-50px;
      /* margin-top:50px; */
 
