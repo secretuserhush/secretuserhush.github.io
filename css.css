@@ -12,6 +12,8 @@ body {
   background-repeat: repeat;  */
   font-family: 'Roboto', 'Heebo', sans-serif;
   font-weight: 900;
+	  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
 .container {
